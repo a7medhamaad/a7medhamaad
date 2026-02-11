@@ -1,62 +1,63 @@
-<h2>Hey 👋, I'm <a href="https://github.com/a7medhamaad">Ahmed Hamad</a></h2>
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Ahmed+Hamad;PHP+Full-Stack+Developer;Laravel+%7C+REST+APIs+%7C+MySQL;Building+Scalable+Backend+Systems" />
+</p>
 
-<p>
+---
+
+<p align="center">
 I'm a <strong>PHP Full-Stack Developer</strong> specializing in 
-<strong>Laravel</strong>, <strong>REST APIs</strong>, and <strong>MySQL</strong> 
-based in Egypt 🇪🇬.  
-I’m focused on building scalable backend systems and clean architecture applications.
+<strong>Laravel</strong>, <strong>REST APIs</strong>, and <strong>MySQL</strong> based in Egypt 🇪🇬.  
+Focused on building scalable backend systems and clean architecture applications.
 </p>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/ahmed-hamaad-892498383/">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:httb.ahmed19@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/a7medhamaad">
-<img src="https://img.shields.io/badge/-@a7medhamaad-181717?style=flat-square&labelColor=181717&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<p>🍌 Don't forget to stay consistent 🍌</p>
+<p align="center">🍌 Don't forget to stay consistent 🍌</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+<img align="right" width="350" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-<h2>⚡️ A Few Quick Facts</h2>
+---
 
-<ul>
-<li>🔭 I’m currently working on Laravel web applications</li>
-<li>🧐 Learning about <strong>system design</strong> & <strong>scalable backend architectures</strong></li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/a7medhamaad">GitHub</a></li>
-<li>🛠 Experienced in authentication, RBAC & REST APIs</li>
-<li>💬 Ping me about <strong>Laravel, PHP, MySQL, APIs</strong></li>
-<li>🎯 Goal: Become a strong Backend / Full-Stack Engineer</li>
-</ul>
+## ⚡ A Few Quick Facts
 
-<h2>🚀 Some Tools I Use</h2>
+- 🔭 I’m currently working on Laravel web applications  
+- 🧐 Learning system design & scalable backend architectures  
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/a7medhamaad)  
+- 🔐 Experienced in authentication, RBAC & REST APIs  
+- 🎯 Goal: Become a strong Backend / Full-Stack Engineer  
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/>
+---
+
+## 🚀 Some Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,github,docker" />
 </p>
 
-<h2>📊 GitHub Stats</h2>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7medhamaad&show_icons=true&count_private=true" alt="a7medhamaad" />
+## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medhamaad" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=a7medhamaad&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medhamaad&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
 🚀 Consistency beats intensity.
