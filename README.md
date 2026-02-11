@@ -33,7 +33,7 @@ Focused on building scalable backend systems and clean architecture applications
 
 - 🔭 I’m currently working on Laravel web applications  
 - 🧐 Learning system design & scalable backend architectures  
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/a7medhamaad)  
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/a7medhamaad?tab=repositories)  
 - 🔐 Experienced in authentication, RBAC & REST APIs  
 - 🎯 Goal: Become a strong Backend / Full-Stack Engineer  
 
