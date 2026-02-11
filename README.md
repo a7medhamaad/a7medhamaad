@@ -49,11 +49,6 @@ Focused on building scalable backend systems and clean architecture applications
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=a7medhamaad&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=a7medhamaad&theme=tokyonight&hide_border=true" />
 </p>
