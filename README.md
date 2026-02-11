@@ -50,7 +50,7 @@ Focused on building scalable backend systems and clean architecture applications
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=a7medhamaad&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=a7medhamaad&theme=tokyo-night" />
 </p>
 
 <p align="center">
